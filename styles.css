@@ -88,6 +88,16 @@ body {
 
   font-size: 20px;
 
+  transition: background-color 2s ease-out, padding 2s;
+
+}
+
+.store-link:hover {
+
+background-color: black;
+color: white;
+padding: 20px;
+font-size: 1.2em;
 }
 
 /* end main styling */
